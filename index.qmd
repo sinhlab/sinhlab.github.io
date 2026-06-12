@@ -1,7 +1,18 @@
 ---
 title: "Sinthavanh Chanthavong"
 subtitle: "Development Economics | Trade Policy | Digital Economy"
-description: "Compact academic profile of Sinthavanh Chanthavong."
+author: "Sinthavanh Chanthavong"
+description: "Sinthavanh Chanthavong is a Ph.D. candidate in Development Economics at Nagoya University working on trade policy, digital economy governance, causal inference, CGE modeling, and Lao PDR development."
+keywords:
+  - Sinthavanh Chanthavong
+  - development economics
+  - trade policy
+  - digital economy
+  - Lao PDR
+  - Nagoya University
+  - causal inference
+  - CGE modeling
+image: assets/profile-photo.jpg
 ---
 
 ::: {.name-card}

@@ -19,7 +19,8 @@ body {
 }
 
 .navbar,
-.quarto-title-block {
+.quarto-title-block,
+.quarto-title-meta {
   display: none;
 }
 
