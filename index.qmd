@@ -1,0 +1,89 @@
+---
+title: "Sinthavanh Chanthavong"
+subtitle: "Development Economics | Trade Policy | Digital Economy"
+description: "Compact academic profile of Sinthavanh Chanthavong."
+---
+
+::: {.name-card}
+::: {.portrait}
+![](assets/profile-photo.jpg){fig-alt="Portrait of Sinthavanh Chanthavong"}
+:::
+
+::: {.card-body}
+# Sinthavanh Chanthavong
+
+**Ph.D. Candidate in Development Economics**  
+Graduate School of International Development, Nagoya University
+
+I work on trade policy, digital economy governance, and development challenges in Lao PDR and ASEAN.
+
+::: {.tags}
+[Trade Policy]{.tag}
+[Digital Economy]{.tag}
+[Development Economics]{.tag}
+:::
+
+::: {.profile-sections}
+::: {.profile-section}
+## Key Skills
+
+::: {.skill-tags}
+[Trade Policy Analysis]{.skill}
+[Development Economics]{.skill}
+[Causal Inference]{.skill}
+[Firm-Level Analysis]{.skill}
+[CGE / GTAP Modeling]{.skill}
+[Panel Data Econometrics]{.skill}
+[Natural Language Processing]{.skill}
+[Legal and Policy Mapping]{.skill}
+[R, Stata, Python, GAMS]{.skill}
+:::
+:::
+
+::: {.profile-section}
+## Education
+
+- **Ph.D. in International Development**, Nagoya University, 2023-2026
+- **M.A. in Asia Pacific Studies**, Thammasat University, 2016-2018
+- **B.A. in International Relations**, National University of Laos, 2012-2016
+:::
+
+::: {.profile-section}
+## Working Profile
+
+- **Research Assistant**, Nagoya University, 2025-2026  
+  Trade, tariff, non-tariff measure, and supply-chain data work.
+- **Teaching Assistant**, Nagoya University, 2024-2026  
+  R, Stata, empirical workflow, and seminar research support.
+- **Trade Officer**, Ministry of Industry and Commerce, Lao PDR, 2018-2022  
+  ASEAN/RCEP e-commerce policy, regulatory gap assessment, and paperless-trade readiness work.
+:::
+
+::: {.profile-section}
+## Open Projects
+
+- [**OpenLaw**](https://github.com/SinthavanhCTV/OpenLaw)  
+  Machine-readable bilingual Lao PDR legislation repository for legal research, AI-assisted analysis, and public access to legal information.
+:::
+
+::: {.profile-section}
+## Publications
+
+**Published article**
+
+- [Quantifying the Impact of Trade Liberalization on Lao Imports: Evidence from Product-Level Data](https://link.springer.com/article/10.1007/s42495-024-00136-0). *International Journal of Economic Policy Studies*, 2024.
+
+**Working papers**
+
+- [Critical Minerals, Critical Choices: Reshaping EU Strategy in Global Electric Vehicle Supply Chains](https://adelaide.edu.au/content/dam/adelaideuniversity/documents/research/research-institutes-centres-concentrations/institute-for-international-trade/jean-monnet-centre-of-excellence-in-trade---environment-/wp26-critical-minerals-critical-choices.pdf), with Christian Otchia.
+- [Future Trade Integration, LDC Graduation, and Lao Economic Development: A General Equilibrium Analysis](https://www.gtap.agecon.purdue.edu/uploads/resources/download/13405.pdf).
+:::
+:::
+
+::: {.card-links}
+[Email](mailto:sinthavanh.ctv@gmail.com)
+[ORCID](https://orcid.org/0009-0006-6795-0571)
+[OpenLaw](https://github.com/SinthavanhCTV/OpenLaw)
+:::
+:::
+:::

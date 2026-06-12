@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: "Sinthavanh Chanthavong"
+  search: false
+  navbar:
+    background: "#ffffff"
+    foreground: "#1b242b"
+    left:
+      - text: "Profile"
+        href: index.qmd
+    right:
+      - text: "Email"
+        href: mailto:sinthavanh.ctv@gmail.com
+      - text: "ORCID"
+        href: https://orcid.org/0009-0006-6795-0571
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true
