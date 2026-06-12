@@ -39,6 +39,38 @@ For a user site named `sinhlab.github.io`, the public URL will be:
 https://sinhlab.github.io
 ```
 
+## GitHub Pages Naming Note
+
+GitHub gives one main Pages domain per account or organization:
+
+```text
+https://USERNAME.github.io
+```
+
+For this project, the GitHub account is `sinhlab`, so the main profile site uses:
+
+```text
+https://sinhlab.github.io
+```
+
+That requires the repository name:
+
+```text
+sinhlab.github.io
+```
+
+Other repositories under the same account become project pages, for example:
+
+```text
+https://sinhlab.github.io/LaoOpenLaw/
+```
+
+Recommended OpenLaw project repository name:
+
+```text
+LaoOpenLaw
+```
+
 ## Main Files
 
 - `_quarto.yml` - Quarto website configuration
